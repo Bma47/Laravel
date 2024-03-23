@@ -1,1 +1,0 @@
-/** Hier is ruimte voor extra JavaScript */
